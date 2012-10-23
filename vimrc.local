@@ -3,7 +3,8 @@ set ruler
 set term=xterm-256color
 color fruit
 color camo
-color desertEx
+"color desertEx
+color Monokai
 
 " color ironman
 " sy off
@@ -42,9 +43,9 @@ set showcmd
 set visualbell
 nnoremap / /\v
 vnoremap / /\v
-if exists("&colorcolumn")
-  set colorcolumn=80
-endif
+"if exists("&colorcolumn")
+"  set colorcolumn=80
+"endif
 nnoremap j gj
 nnoremap k gk
 

@@ -96,3 +96,6 @@ color default
 if filereadable(expand("~/.vimrc.local"))
   source ~/.vimrc.local
 endif
+
+" Zen Coding vim
+let g:user_zen_expandabbr_key = '<Leader>a'

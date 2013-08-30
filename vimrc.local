@@ -82,6 +82,7 @@ inoremap JJJJ <Esc><C-e><C-e><C-e>
 inoremap KKKK <Esc><C-y><C-y><C-y>
 inoremap HHHH <Esc>zhzhzhzhzhzh
 inoremap LLLL <Esc>zlzlzlzlzlzl
+inoremap jj <Esc>
 map J <C-e>
 map K <C-y>
 map H zhzh

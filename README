@@ -3,6 +3,7 @@ Custom by Jeongwooklee
 * zen-coding
 * jade highlight
 * monokai colorscheme
+* inoremap jj <Esc>
 
 ---
 

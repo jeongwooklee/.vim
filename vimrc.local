@@ -101,3 +101,8 @@ imap <F1> <Esc>
 " escape is so far away
 noremap <Leader>m <Esc>
 inoremap <Leader>m <Esc>
+
+" save all files
+map <Leader>s :wa<CR>
+imap <Leader>s <Esc>:wa<CR>
+

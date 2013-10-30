@@ -4,6 +4,8 @@ Custom by Jeongwooklee
 * jade highlight
 * monokai colorscheme
 * inoremap jj <Esc>
+* map <Leader>s :wa<CR>
+* imap <Leader>s <Esc>:wa<CR>
 
 ---
 

@@ -6,6 +6,7 @@ Custom by Jeongwooklee
 * inoremap jj <Esc>
 * map <Leader>s :wa<CR>
 * imap <Leader>s <Esc>:wa<CR>
+* JSON color
 
 ---
 

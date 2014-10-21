@@ -1,13 +1,14 @@
 Custom by Jeongwooklee
 
 * zen-coding
-* jade highlight
 * monokai colorscheme
 * inoremap jj <Esc>
 * map <Leader>s :wa<CR>
 * imap <Leader>s <Esc>:wa<CR>
 * JSON color
 * vim-coffee-script
+* .jade highlight
+* .slim highlight
 
 ---
 
